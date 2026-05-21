@@ -87,7 +87,7 @@ The PCB fabrication workflow involved:
 ![pcb](/assets/milling_db_side_pic_10.jpg)
 ![pcb](/assets/milling_db_side_pic_11.jpg)
 
-![pcb](/assets/pro_pic_01.jpg)
+![pcb](/assets/result.jpg)
 
 ---
 
@@ -101,6 +101,9 @@ The board was tested to verify:
 * Microcontroller programming
 * I/O pin functionality
 * PCB continuity and routing integrity
+
+
+![pcb](/assets/rgbled%20coll%20pic%2002.jpg)
 
 ---
 
